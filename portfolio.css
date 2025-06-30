@@ -107,27 +107,27 @@ h1 {
 }
 
 .project-tile:nth-of-type(1) {
-    background-image: url(https://onedrive.live.com/embed?resid=E9D818F0E209C812%21493&authkey=%21AKwQOGKNQO7ZZMo&width=796&height=642);
+    background-image: url(images/virtual-mentor.png);
 }
 
 .project-tile:nth-of-type(2) {
-    background-image: url(https://onedrive.live.com/embed?resid=E9D818F0E209C812%21492&authkey=%21AGjihQG5eka-bqw&width=797&height=532);
+    background-image: url(images/25-5-clock.png);
 }
 
 .project-tile:nth-of-type(3) {
-    background-image: url(https://onedrive.live.com/embed?resid=E9D818F0E209C812%21495&authkey=%21APJylKDy0Sdkpv8&width=785&height=616);
+    background-image: url(images/drum-machine.png);
 }
 
 .project-tile:nth-of-type(4) {
-    background-image: url(https://onedrive.live.com/embed?resid=E9D818F0E209C812%21496&authkey=%21AKtk6cs7wAWTM7g&width=781&height=524);
+    background-image: url(images/javascript-calculator.png);
 }
 
 .project-tile:nth-of-type(5) {
-    background-image: url(https://onedrive.live.com/embed?resid=E9D818F0E209C812%21494&authkey=%21ALGHAKcvK_XoAXA&width=784&height=536);
+    background-image: url(images/markdown-previewer.png);
 }
 
 .project-tile:nth-of-type(6) {
-    background-image: url(https://onedrive.live.com/embed?resid=E9D818F0E209C812%21497&authkey=%21AHfrGQ0EokEuMrM&width=779&height=595);
+    background-image: url(images/random-quote-generator.png);
 }
 
 .flex {
